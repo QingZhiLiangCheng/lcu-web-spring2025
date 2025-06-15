@@ -5,7 +5,7 @@ const booksData = [
         title: "康熙的红票",
         author: "孙立天",
         category: "history",
-        cover: "../accessories/img/kangxi.png",
+        cover: "accessories/img/kangxi.png",
         description: "2019年北京春季艺术品拍卖会上，出现了一张康熙皇帝1716年发去欧洲的谕令，内容是寻找他派去罗马多年而杳无音讯的洋钦差。这份谕令呈朱红色，历史上又称“红票”。因正史中没有记载，红票的来历一直成谜。康熙为何会派西洋传教士做钦差？派他们到欧洲去所为何事？\n" +
             "\n" +
             "本书以红票作为叙事切入点，抽丝剥茧，围绕清初皇室特别是康熙帝与汤若望、南怀仁为代表的北京传教士群体之间的互动，抉出了一段中国与西洋深度接触的往事。\n" +
@@ -27,7 +27,7 @@ const booksData = [
         title: "CSAPP - 深入理解计算机系统",
         author: "Randal E. Bryant, David R. O'Hallaron",
         category: "computer",
-        cover: "../accessories/img/csapp.png",
+        cover: "accessories/img/csapp.png",
         description: "计算机神书hhh",
         pages: 1080,
         status: "paused",
@@ -41,7 +41,7 @@ const booksData = [
         title: "你当像鸟飞往你的山",
         author: "Tara Westover",
         category: "literature",
-        cover: "../accessories/img/bird.png",
+        cover: "accessories/img/bird.png",
         description: "人们只看到我的与众不同：一个十七岁前从未踏入教室的大山女孩，却戴上一顶学历的高帽，熠熠生辉。只有我知道自己的真面目：我来自一个极少有人能想象的家庭。我的童年由垃圾场的废铜烂铁铸成，那里没有读书声，只有起重机的轰鸣。不上学，不就医，是父亲要我们坚持的忠诚与真理。父亲不允许我们拥有自己的声音，我们的意志是他眼中的恶魔。哈佛大学，剑桥大学，哲学硕士，历史博士……我知道，像我这样从垃圾堆里爬出来的无知女孩，能取得如今的成就，应当感激涕零才对。但我丝毫提不起热情。我曾怯懦、崩溃、自我怀疑，内心里有什么东西腐烂了，恶臭熏天。直到我逃离大山，打开另一个世界。那是教育给我的新世界，那是我生命的无限可能。",
         pages: 388,
         status: "completed",
@@ -57,7 +57,7 @@ const booksData = [
         title: "打开一颗心",
         author: "Stephen Westaby",
         category: "literature",
-        cover: "../accessories/img/heart.png",
+        cover: "accessories/img/heart.png",
         description: "“我经手过12000颗心脏。”作者在心外科暨胸外科从业数十年，手术成绩卓著。本书即汇集了作者经历的一些经典案例（多数发生在1970年代至2000年代之间），也剖白了作者的心路历程。\n" +
             "\n" +
             "工薪家庭的穷小子，被幼年时的医学纪录片鼓舞，也被亲人的离世刺痛，终于将自己历练成一名杰出的心外科医生。他为面试的成功而激动地徜徉在伦敦河岸街头，为先天心脏病或气道重度灼伤的小儿开胸，为病人和家属的焦灼与渴望而奋战，为对抗次日手术的焦虑而深入沙特沙漠欣赏夜空，为尽力修补而果断切削垂危的心脏，为救命而与医务主任对抗、“擅自”为病人安装人工的“电池”心，在命悬一线的攻坚手术面前还能讲出冷笑话……一位艺业精湛、傲气十足又敬畏生命的外科医生形象跃然纸上。那些十几年甚至几十年前就存在的顶尖外科技术也令读者叹为观止。\n" +
@@ -68,7 +68,7 @@ const booksData = [
         startDate: "2025-01-16",
         endDate: "2025-01-24",
         notes: "",
-        onlineLink: "../accessories/book/打开一颗心 ([英]斯蒂芬·韦斯塔比 [[英]斯蒂芬·韦斯塔比]) (Z-Library).pdf",
+        onlineLink: "accessories/book/打开一颗心 ([英]斯蒂芬·韦斯塔比 [[英]斯蒂芬·韦斯塔比]) (Z-Library).pdf",
         downloadLink: "../accessories/book/打开一颗心 ([英]斯蒂芬·韦斯塔比 [[英]斯蒂芬·韦斯塔比]) (Z-Library).pdf",
         recommended: true
     },
@@ -77,7 +77,7 @@ const booksData = [
         title: "房思琪的初恋乐园",
         author: "林奕含",
         category: "literature",
-        cover: "../accessories/img/fangsiqi.png",
+        cover: "accessories/img/fangsiqi.png",
         description: '《房思琪的初恋乐园》是作家 林奕含 创作的长篇小说，首次出版于2017年2月。 该小说讲述了美丽的文学少女 房思琪 被补习班老师 李国华 长期性侵，最终精神崩溃的故事。',
         pages: 344,
         status: "completed",
@@ -93,7 +93,7 @@ const booksData = [
         title: "云边有个小卖部",
         author: "张嘉佳",
         category: "literature",
-        cover: "../accessories/img/yunbian.png",
+        cover: "accessories/img/yunbian.png",
         description: '云边镇少年刘十三的成长故事。\n' +
             '\n' +
             '刘十三自幼与开小卖部的外婆相依为命，努力读书为了离开小镇，追寻远方与梦想。在城市里碰壁受挫的刘十三回到了小镇，与少时玩伴程霜重逢。小镇生活平静却暗潮汹涌，一个孤儿，一场婚礼，一场意外，几乎打破了所有人的生活。\n' +
@@ -113,7 +113,7 @@ const booksData = [
         title: "平面国",
         author: "埃德温·A.艾勃特",
         category: "literature",
-        cover: "../accessories/img/pingmianguo.png",
+        cover: "accessories/img/pingmianguo.png",
         description: '这是一本由正方形撰写的神奇回忆录。在正方形所在的二维世界平面国，只有长和宽，没有高，居民按形状被分成多个阶级：卑微的等腰三角形、普通的等边三角形、作为绅士的正方形和五边形、高贵的六边形和更多边形。一天，正方形遇到了来自三维世界空间国的球体，由此展开了一段神奇的空间之旅。这时，正方形才发现，真实的世界远远超出了想象，一个前所未有的维度在眼前展开……',
         pages: 150,
         status: "completed",
@@ -129,7 +129,7 @@ const booksData = [
         title: "奥斯维辛：一部历史",
         author: "劳伦斯·里斯",
         category: "history",
-        cover: "../accessories/img/aosiweixin.png",
+        cover: "accessories/img/aosiweixin.png",
         description: '这是一本由正方形撰写的神奇回忆录。在正方形所在的二维世界平面国，只有长和宽，没有高，居民按形状被分成多个阶级：卑微的等腰三角形、普通的等边三角形、作为绅士的正方形和五边形、高贵的六边形和更多边形。一天，正方形遇到了来自三维世界空间国的球体，由此展开了一段神奇的空间之旅。这时，正方形才发现，真实的世界远远超出了想象，一个前所未有的维度在眼前展开……',
         pages: 324,
         status: "completed",
@@ -145,7 +145,7 @@ const booksData = [
         title: "埃隆·马斯克传",
         author: "[美]沃尔特·艾萨克森",
         category: "传记",
-        cover: "../accessories/img/ailong.png",
+        cover: "accessories/img/ailong.png",
         description: '埃隆马斯克的传记',
         pages: 608,
         status: "completed",
@@ -161,7 +161,7 @@ const booksData = [
         title: "纳瓦尔宝典",
         author: "[美] 埃里克·乔根森 / 纳瓦尔·拉威康特",
         category: "智慧的结晶",
-        cover: "../accessories/img/nawaer.png",
+        cover: "accessories/img/nawaer.png",
         description: '致富不仅仅靠运气，幸福也不是从天而降的。积累财富和幸福生活都是我们可以且需要学习的技能。\n' +
             '\n' +
             '那么指导我们学习的原则和方法是什么？本书提供了原则和方法。这本书收集整理了硅谷知名天使投资人纳瓦尔的智慧箴言录，尤其是关于财富积累和幸福人生的原则与方法。\n' +
@@ -181,7 +181,7 @@ const booksData = [
         title: "当呼吸化为空气",
         author: "[美] 保罗·卡拉尼什 / Paul Kalanithi",
         category: "回忆录",
-        cover: "../accessories/img/baoluo.png",
+        cover: "accessories/img/baoluo.png",
         description: '《当呼吸化为空气》不仅是一部关于生死的回忆录，更是一次对人性、爱与希望的深刻剖析。 它让我们重新审视自己的生活和价值观，思考生命的意义和价值所在。 通过保罗的故事，我们学会了珍惜眼前人、把握当下、用心去感受生活中的每一个美好瞬间；我们学会了面对困难和挑战时要保持坚韧和勇气；我们学会了用爱和希望去照亮自己和他人的道路。 愿我们都能像保罗一样，在生命的航程中勇敢前行、不忘初心、不负韶华。',
         pages: 272,
         status: "completed",
