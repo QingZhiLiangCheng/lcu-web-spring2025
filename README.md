@@ -13,8 +13,10 @@
   - 我的个人网站是用framer画的，画完即出页面
   - https://qingzhiliangcheng.framer.website/
 - 课程页面
-  - https://detail.qingzhiliangcheng.cn/major
+  - http://detail.qingzhiliangcheng.cn/major 或 http://lcu-web-spring2025.netlify.app/major
 - 书库页面
+  - http://detail.qingzhiliangcheng.cn/library 或 http://lcu-web-spring2025.netlify.app/library
+- 具体的笔记页面是一个印度的大佬写的插件 可以将我的obsidian笔记中的md文件直接变成html文件
 
 ### 书库页面
 - 展示我阅读过的书籍信息
@@ -25,6 +27,7 @@
   - 阅读时间(起止日期)
 - 书籍支持在线阅读功能（PDF嵌入浏览）与下载功能
 - 推荐标签
+- 阅读时间轴
 
 ### 课程页面
 - 展示LCU上过课程
