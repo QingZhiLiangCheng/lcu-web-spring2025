@@ -58,7 +58,7 @@ let coursesData = [
         "url": "https://qingzhiliangcheng.cn/database%20systems/lcu%20database%20system/lcu%20database%20system/"
     },
     {
-        "id": 8,
+        "id": 9,
         "name": "LCU操作系统",
         "semester": "2024.04.12 - 至今",
         "category": "专业课程",
@@ -66,7 +66,7 @@ let coursesData = [
         "url": "https://qingzhiliangcheng.cn/operating%20system/lcu%20operating%20system/lcu%20operating%20system/"
     },
     {
-        "id": 8,
+        "id": 10,
         "name": "LCU Web",
         "semester": "大三上课程 spring2025",
         "category": "专业课程",
@@ -74,7 +74,7 @@ let coursesData = [
         "url": ""
     },
     {
-        "id": 8,
+        "id": 11,
         "name": "LCU Java",
         "semester": "大三上课程 spring2025",
         "category": "专业课程",
@@ -82,7 +82,7 @@ let coursesData = [
         "url": ""
     },
     {
-        "id": 8,
+        "id": 12,
         "name": "LCU 算法设计与分析",
         "semester": "大三上课程 spring2025",
         "category": "专业课程",
@@ -178,7 +178,6 @@ function setupCategoryFilter() {
 
 // 页面加载完成后初始化
 document.addEventListener('DOMContentLoaded', () => {
-    loadCourses();       // 加载并渲染数据
     setupSearch();       // 设置搜索事件监听
     setupCategoryFilter(); // 设置分类筛选监听
 });
